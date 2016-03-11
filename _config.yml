@@ -1,14 +1,26 @@
-layout_spectrum: 0.4533831
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.969534
-  brandStrength: 0.7054707
+  brandStrength: 0.8118279
   lightness: 0.983871
-  rhythmicContrast: 0.9707288
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#1F0403'
+    - '#FFFFFF'
+    - '#FCCF01'
+    - '#5B4B65'
+    - '#029101'
+  rhythmicContrast: 0.9707288
 typography_spectrum: 0.5681913
+layout_spectrum: 0.4533831
 name: yTunes
