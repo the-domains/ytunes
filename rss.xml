@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[yTunes]]></title>
+        <description><![CDATA[yTunes]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 04:39:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KarinaDei]]></title>
+            <description><![CDATA[<article><h1>KarinaDei</h1><p>KarinaDei by Ykarus on #SoundCloud</p></article>]]></description>
+            <link>undefinedkarinadei/index.html</link>
+            <guid isPermaLink="false">ee8faac5-e5c6-4878-8d94-149b247af5be</guid>
+            <pubDate>Fri, 11 Mar 2016 04:38:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
