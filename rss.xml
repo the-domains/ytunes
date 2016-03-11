@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[yTunes]]></title>
         <description><![CDATA[yTunes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ytunes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 04:39:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 04:59:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ytunes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Loving Andromeda | Ep. 1 | 12.26.15]]></title>
+            <description><![CDATA[<article><h1>Loving Andromeda | Ep. 1 | 12.26.15</h1><p>Loving Andromeda by Ykarus on #SoundCloud</p></article>]]></description>
+            <link>https://thegrid.ai/ytunes/loving-andromeda-or-ep-1-or-122615/index.html</link>
+            <guid isPermaLink="false">52e6f739-98e8-472d-9f6c-93b1cfc74282</guid>
+            <pubDate>Fri, 11 Mar 2016 04:58:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KarinaDei]]></title>
             <description><![CDATA[<article><h1>KarinaDei</h1><p>KarinaDei by Ykarus on #SoundCloud</p></article>]]></description>
-            <link>undefinedkarinadei/index.html</link>
+            <link>https://thegrid.ai/ytunes/karinadei/index.html</link>
             <guid isPermaLink="false">ee8faac5-e5c6-4878-8d94-149b247af5be</guid>
             <pubDate>Fri, 11 Mar 2016 04:38:57 GMT</pubDate>
         </item>
