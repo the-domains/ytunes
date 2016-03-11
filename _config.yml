@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5681913
+typography_spectrum: 0.2419355
 color:
-  saturation: 0.969534
+  saturation: 0.5931899
   brandStrength: 0.8118279
-  lightness: 0.983871
+  lightness: 0.3470729
   brandColors:
     - '#1F0403'
     - '#FFFFFF'
     - '#FCCF01'
     - '#5B4B65'
     - '#029101'
-  rhythmicContrast: 0.9707288
+  rhythmicContrast: 0.6899641
 layout_spectrum: 0.005376308
 name: yTunes
