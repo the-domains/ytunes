@@ -1,0 +1,14 @@
+layout_spectrum: 0.4533831
+color:
+  saturation: 0.969534
+  brandStrength: 0.7054707
+  lightness: 0.983871
+  rhythmicContrast: 0.9707288
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.5681913
+name: yTunes
