@@ -4,15 +4,8 @@
         <description><![CDATA[yTunes]]></description>
         <link>https://thegrid.ai/ytunes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 05:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 05:04:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ytunes/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Sparta]]></title>
-            <description><![CDATA[<article><h1>Sparta</h1><p>Sphaera by Ykarus on #SoundCloud</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4aa8ed33c256d1dbaab06eff204e1445a67fb37b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/ytunes/sparta/index.html</link>
-            <guid isPermaLink="false">dbb2e013-7df6-43c7-aa32-90155b9758c2</guid>
-            <pubDate>Fri, 11 Mar 2016 05:04:06 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Nautilus ]]></title>
             <description><![CDATA[<article><h1>Nautilus </h1><p>'Revisionist Soul' is how artist mChris Young would most succinctly describe his work as a DeeJay and Producer. Performing under the moniker, Ykarus, his musical leanings are decidedly deep house, alt</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fd8a21e641c42903a9f98bba7d7dacfd74034b2.jpg"></article>]]></description>
@@ -26,13 +19,6 @@
             <link>https://thegrid.ai/ytunes/loving-andromeda-or-ep-1-or-122615/index.html</link>
             <guid isPermaLink="false">52e6f739-98e8-472d-9f6c-93b1cfc74282</guid>
             <pubDate>Fri, 11 Mar 2016 04:58:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KarinaDei]]></title>
-            <description><![CDATA[<article><h1>KarinaDei</h1><p>KarinaDei by Ykarus on #SoundCloud</p></article>]]></description>
-            <link>https://thegrid.ai/ytunes/karinadei/index.html</link>
-            <guid isPermaLink="false">ee8faac5-e5c6-4878-8d94-149b247af5be</guid>
-            <pubDate>Fri, 11 Mar 2016 04:38:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
