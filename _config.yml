@@ -10,7 +10,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0
 color:
   saturation: 0.583632
   brandStrength: 0.8118279
@@ -22,5 +21,6 @@ color:
     - '#A44B03'
     - '#806D30'
   rhythmicContrast: 0.4964157
-layout_spectrum: 0.453405
+typography_spectrum: 0
+layout_spectrum: 1
 name: yTunes
