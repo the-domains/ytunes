@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0
 color:
-  saturation: 0.630227
+  saturation: 0.8703703
   brandStrength: 0
-  rhythmicContrast: 1
+  lightness: 1
   brandColors:
     - '#0E0E0D'
     - '#FAFAF3'
     - '#423039'
     - '#78776E'
     - '#C6C5BE'
-  lightness: 1
+  rhythmicContrast: 1
 layout_spectrum: 0
 name: yTunes
