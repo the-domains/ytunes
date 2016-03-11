@@ -1,7 +1,7 @@
 name: yTunes
 favicon: null
-layout_spectrum: 0.24354
-typography_spectrum: 0.6297
+layout_spectrum: 1
+typography_spectrum: 0
 collections:
   - index:
       path: /
