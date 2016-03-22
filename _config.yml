@@ -1,40 +1,40 @@
-name: yTunes
 favicon: null
-layout_spectrum: 0.87972
-typography_spectrum: 0
+name: yTunes
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.583632
+  brandStrength: 0.5752687
+  rhythmicContrast: 0.4964157
   brandColors:
     - '#020103'
     - '#FBE0C7'
     - '#D97827'
     - '#A44B03'
     - '#806D30'
-  brandStrength: 0.5752687
   lightness: 0.75
-  saturation: 0.583632
-  rhythmicContrast: 0.4964157
-purpose: []
+typography_spectrum: 0
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
