@@ -1,5 +1,4 @@
-favicon: null
-name: yTunes
+layout_spectrum: 0
 opengraph:
   image: null
   type: null
@@ -18,23 +17,24 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.583632
+  saturation: 0.4366786
   brandStrength: 0.5752687
-  rhythmicContrast: 0.4964157
+  lightness: 0.8333333
   brandColors:
     - '#020103'
     - '#FBE0C7'
     - '#D97827'
     - '#A44B03'
     - '#806D30'
-  lightness: 0.75
+  rhythmicContrast: 0.3375149
 typography_spectrum: 0
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: yTunes
